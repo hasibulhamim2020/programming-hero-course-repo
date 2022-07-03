@@ -1,0 +1,26 @@
+p ,h1 {
+
+color: rgb(4, 42, 42);
+text-align: center;
+}
+
+#head {
+    color: rgb(238, 20, 20); 
+    text-align: center; 
+    background-image:url(Doc1.jpg);
+
+}
+
+#p1 {
+    color: rgb(13, 1, 77);
+    text-align: center; 
+   border: 1px solid black;
+   padding-top: 1px;
+   padding-left: 15px;  
+   padding-right: 15px;
+   padding-bottom: 20px;
+   width:auto;
+   height:200px;
+    overflow: scroll;
+
+}
